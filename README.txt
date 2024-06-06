@@ -6,6 +6,10 @@ Uygulamayı Başlatmak İçin:
     Uygulamanın Başlatılması:
     İlk olarak, proje dizinine gidin.
 
+    Gerekli paketleri indirmek için:
+    ```bash
+    npm install next
+    
     Geliştirme sunucusunu başlatmak için aşağıdaki komutu çalıştırın:
     
     ```bash
